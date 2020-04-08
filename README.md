@@ -1,6 +1,8 @@
-Azure Policy Template - ver 2.1
+**Azure Policy Template - 
+*ver 2.1
+-----
+Allow Installed OS Version**
 
-**Allow Installed OS Version. 
 Here is a example
 
 - WinSrv: 2019/ 2016
