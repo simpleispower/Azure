@@ -6,7 +6,6 @@
         {
           "field": "type",
           "in": [
-            "Microsoft.Compute/disks",
             "Microsoft.Compute/virtualMachines",
             "Microsoft.Compute/VirtualMachineScaleSets"
           ]
